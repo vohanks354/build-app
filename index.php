@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<h2>CRUD PHP PAKE OPENSHIFT</h2>
+	<h2>Crud Openshift</h2>
 	<br/>
 	<a href="tambah.php">ADD</a>
 	<br/>
