@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<h2>FORM DATA TEMAN</h2>
+	<h2>CRUD PHP PAKE OPENSHIFT</h2>
 	<br/>
 	<a href="tambah.php">ADD</a>
 	<br/>
