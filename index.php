@@ -7,7 +7,7 @@
 
 	<h2>FORM DATA TEMAN</h2>
 	<br/>
-	<a href="tambah.php">+ TAMBAH TEMAN</a>
+	<a href="tambah.php">+ ADD</a>
 	<br/>
 	<br/>
 	<table border="1">
