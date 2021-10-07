@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("db-kirom","user","pass","opdb");
+$koneksi = mysqli_connect("db-kirom","opuser","oppass","opdb");
 
 // Check connection
 if (mysqli_connect_errno()){
