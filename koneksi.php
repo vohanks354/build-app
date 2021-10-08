@@ -1,8 +1,8 @@
 <?php 
 $koneksi = mysqli_connect(
 	getenv("MYSQL_SERVICE_NAME"),
-	getenv("MYSQL_OPERATIONS_USER"),
-	getenv("MYSQL_OPERATIONS_PASSWORD"),
+	getenv("DATABASE_USER"),
+	getenv("DATABASE_PASSWORD"),
 	getenv("MYSQL_DATABASE"));
 
 // echo getenv("MYSQL_SERVICE_NAME");
