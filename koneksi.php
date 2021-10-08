@@ -1,5 +1,9 @@
 <?php 
-$koneksi = mysqli_connect(env.DATABASE_SERVICE_NAME,"opuser","oppass","opdb");
+$koneksi = mysqli_connect(
+	getenv("MYSQL_SERVICE_NAME"),
+	getenv("MYSQL_OPERATIONS_USER"),
+	getenv("MYSQL_OPERATIONS_PASSWORD"),
+	getenv("MYSQL_DATABASE"));
 
 // Check connection
 if (mysqli_connect_errno()){
