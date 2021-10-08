@@ -5,7 +5,7 @@ $koneksi = mysqli_connect(
 	getenv("MYSQL_OPERATIONS_PASSWORD"),
 	getenv("MYSQL_DATABASE"));
 
-echo getenv("MYSQL_SERVICE_NAME");
+// echo getenv("MYSQL_SERVICE_NAME");
 
 // Check connection
 if (mysqli_connect_errno()){
