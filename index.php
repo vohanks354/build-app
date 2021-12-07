@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<h2>Crud Openshift Dev and Stage xxx</h2>
+	<h2>Crud Openshift Dev and Stage</h2>
 	<br/>
 	<a href="tambah.php">ADD</a>
 	<br/>
